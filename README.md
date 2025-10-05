@@ -38,4 +38,5 @@ Principais classes e interfaces:
 
 ---
 ## 📄 Diagrama de classes
+<img width="985" height="641" alt="image" src="https://github.com/user-attachments/assets/1a050edb-4c2a-421b-b5b0-c508f7eb6b44" />
 
